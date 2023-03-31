@@ -14,5 +14,11 @@ Se genera en Main la base con todos los elementos entregados sin cambios.
 # Dev - branch
 Se genera la rama Dev para realizar la ejecución y verificación del desarrollo
 
+# Prerequisitos
+Se a utilizado para el desarrollo y la ejecución de los modelos:
+- Anaconda - Jupiter notebook 6.5.2
+- XGboost 1.7.3
+- Seaborn 0.12.2
+- missigno 0.5.2
 
 
